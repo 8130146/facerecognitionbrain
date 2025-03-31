@@ -26,7 +26,7 @@ class ProfileIcon extends React.Component {
           >
           <img 
           src="https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg"
-          className="br-100 ba h3 w3 dib" alt="avatar" />
+          className="br-100 h3 w3 dib" alt="avatar" />
           </DropdownToggle>
           <DropdownMenu 
             right
